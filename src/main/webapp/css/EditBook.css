@@ -1,0 +1,11 @@
+.edit-form {
+	margin-left: 10px;
+}
+
+.edit-form h4 {
+	text-align: center;
+}
+
+.form-control {
+    -webkit-appearance: menulist ; -moz-appearance: menulist ; appearance: menulist ;
+}
